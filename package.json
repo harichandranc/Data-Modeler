@@ -1,0 +1,16 @@
+{
+  "name": "blogging-platform",
+  "version": "1.0.0",
+  "description": "MongoDB Schema Design for Blogging Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Harichandran",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "express": "^4.18.2",
+    "dotenv": "^16.0.0"
+  }
+}
